@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_time">
+        <item>5分钟</item>
+        <item>15分钟</item>
+        <item>30分钟</item>
+        <item>1小时</item>
+    </string-array>
+    <color name="DrakGrey">#BBBBBB</color>
+    <color name="Frosted">#40737f88</color>
+    <color name="GreyOne">#DDDDDD</color>
+    <color name="GreyTwo">#EEEEEE</color>
+    <color name="black">#ff000000</color>
+    <color name="blue">#FF18B4ED</color>
+    <color name="blueTranslucent">#BB18B4ED</color>
+    <color name="greyTwoTrans">#88EEEEEE</color>
+    <color name="greyTwoTranslucent">#BBEEEEEE</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFF9F9F9</color>
+    <color name="whiteTrans">#88F9F9F9</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">省电设置</string>
+    <string name="app_name1">录像文件设置</string>
+    <string name="app_name2">修改密码</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="type_mainstatus">已关闭特殊功能</string>
+    <string name="type_maintitle">特殊功能</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

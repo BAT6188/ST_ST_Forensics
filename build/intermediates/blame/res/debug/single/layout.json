@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recordfile.xml",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\layout\\activity_recordfile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_recordtime.xml",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\layout\\dialog_recordtime.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\layout\\main_list.xml",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\layout\\main_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\layout\\video.xml",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\layout\\video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\layout\\type1_item.xml",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\layout\\type1_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\layout\\item_recordfile.xml",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\layout\\item_recordfile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\layout\\type2_item.xml",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\layout\\type2_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\layout\\item_recordfile_path.xml",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\layout\\item_recordfile_path.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_shakevalue.xml",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\layout\\dialog_shakevalue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\layout\\notification.xml",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\layout\\activity_changepassword.xml",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\layout\\activity_changepassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\layout\\type_item.xml",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\layout\\type_item.xml"
+    }
+]

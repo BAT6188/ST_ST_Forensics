@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Moore\workspace\ST_Forensics\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="075e30f62a6b2aad7942d8897c3a987e91ac337d">
+        <dex dex="C:\Users\Moore\workspace\ST_Forensics\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5d8758690a7ef0a51db4a438aa03bec989f61aa4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Moore\workspace\ST_Forensics\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="75467310062de483fc42d4b6bcd4d898a340e1a4">
+        <dex dex="C:\Users\Moore\workspace\ST_Forensics\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5752b5ef3a7b37bcf606f5f24f21372adbecf440\classes.dex" />
+    </item>
+
+</items>

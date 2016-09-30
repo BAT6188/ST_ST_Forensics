@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cycle_96px.png",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\drawable-mdpi\\cycle_96px.png"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\bulb_front.png",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\drawable-mdpi\\bulb_front.png"
+    }
+]

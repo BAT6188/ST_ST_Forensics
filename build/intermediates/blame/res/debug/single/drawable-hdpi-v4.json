@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bulb_front.png",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\drawable-hdpi\\bulb_front.png"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bulm_back.png",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\drawable-hdpi\\bulm_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cycle_24px_off.png",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\drawable-hdpi\\cycle_24px_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bulb_off_front.png",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\drawable-hdpi\\bulb_off_front.png"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cycle_24px_on.png",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\drawable-hdpi\\cycle_24px_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bulb_off_back.png",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\drawable-hdpi\\bulb_off_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cycle_48px.png",
+        "source": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\drawable-hdpi\\cycle_48px.png"
+    }
+]

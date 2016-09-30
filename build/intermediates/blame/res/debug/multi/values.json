@@ -1,0 +1,469 @@
+[
+    {
+        "outputFile": "C:\\Users\\Moore\\workspace\\ST_Forensics\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 64,
+                        "endLine": 8,
+                        "endColumn": 19,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 42,
+                    "endOffset": 253
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 273,
+                        "endColumn": 42,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 258,
+                    "endColumn": 43,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 317,
+                        "endColumn": 43,
+                        "endOffset": 356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 302,
+                    "endColumn": 41,
+                    "endOffset": 339
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endColumn": 41,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 344,
+                    "endColumn": 41,
+                    "endOffset": 381
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 41,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 386,
+                    "endColumn": 41,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 41,
+                        "endOffset": 181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 428,
+                    "endColumn": 40,
+                    "endOffset": 464
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 40,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 469,
+                    "endColumn": 51,
+                    "endOffset": 516
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 362,
+                        "endColumn": 51,
+                        "endOffset": 409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 521,
+                    "endColumn": 48,
+                    "endOffset": 565
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 471,
+                        "endColumn": 48,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 570,
+                    "endColumn": 54,
+                    "endOffset": 620
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 415,
+                        "endColumn": 54,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 625,
+                    "endColumn": 47,
+                    "endOffset": 668
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 569,
+                        "endColumn": 47,
+                        "endOffset": 612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 673,
+                    "endColumn": 41,
+                    "endOffset": 710
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 41,
+                        "endOffset": 138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 715,
+                    "endColumn": 46,
+                    "endOffset": 757
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endColumn": 46,
+                        "endOffset": 563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 762,
+                    "endColumn": 57,
+                    "endOffset": 815
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 820,
+                    "endColumn": 55,
+                    "endOffset": 871
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 876,
+                    "endColumn": 52,
+                    "endOffset": 924
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 243,
+                        "endColumn": 52,
+                        "endOffset": 291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 929,
+                    "endColumn": 41,
+                    "endOffset": 966
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 41,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 971,
+                    "endColumn": 44,
+                    "endOffset": 1011
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 44,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1016,
+                    "endColumn": 42,
+                    "endOffset": 1054
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 145,
+                        "endColumn": 42,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1059,
+                    "endColumn": 52,
+                    "endOffset": 1107
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 52,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1112,
+                    "endColumn": 51,
+                    "endOffset": 1159
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 349,
+                        "endColumn": 51,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1164,
+                    "endColumn": 47,
+                    "endOffset": 1207
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 47,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1212,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 1498
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1503,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 1658
+                },
+                "from": {
+                    "file": "C:\\Users\\Moore\\workspace\\ST_Forensics\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
